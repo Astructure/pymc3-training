@@ -1,0 +1,12 @@
+name: pymc3_rom
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - libpython
+  - pymc3
+  - jupyterlab
+  - pip
+  - pip:
+    - git+https://github.com/mathLab/EZyRB.git@master
