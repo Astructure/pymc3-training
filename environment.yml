@@ -1,0 +1,12 @@
+name: fenics_pymc3_tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fenics
+  - ipython
+  - pymc3
+  - jupyterlab
+  - pip
+  - pip:
+    - git+https://github.com/mathLab/EZyRB.git@master
