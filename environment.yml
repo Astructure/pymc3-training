@@ -9,4 +9,4 @@ dependencies:
   - jupyterlab
   - pip
   - pip:
-    - git+https://github.com/mathLab/EZyRB.git@master
+    - git+https://github.com/mathLab/EZyRB.git@7aa5ae4dda8229a1a5d1f764d0f321a7c2ed2738
